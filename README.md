@@ -4,6 +4,8 @@
 [StormのWiki](https://github.com/nathanmarz/storm/wiki/Creating-a-new-Storm-project) の日本語化も、このWikiを使ってやっています。
 https://github.com/stormjp/storm-website-jp/wiki
 
+元の英語版より古い情報の可能性や，日本語訳が間違っている可能性がありますので，かならず本家のドキュメントの確認もお願いします。
+
 手伝ってくれる人募集中です。
 
 It is written using [Jekyll](https://github.com/mojombo/jekyll).
