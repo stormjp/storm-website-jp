@@ -5,8 +5,8 @@ body {
 	margin: 0px;
 	background: url(/images/top_bg.gif);
 	background-repeat: repeat-x;
-	font-family: Verdana, Arial, sans-serif;
-        font-size: 1.0em;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,Verdana, Arial, sans-serif;
+    font-size: 1.0em;
 }
 
 p {
