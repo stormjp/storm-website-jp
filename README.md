@@ -4,7 +4,7 @@ translate storm webpage and Storm Wiki.
 
 ## website
 
-* [original page](htttp://storm-project.net)
+* [original page](http://storm-project.net)
 * [japanese page](http://stormjp.github.com/storm-website-jp)
 
 ## wiki
